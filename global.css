@@ -1,0 +1,10 @@
+:root{
+    --background:black;
+    --font-family: 'Tapestry', cursive;
+   --font-weight: 200;
+   --text-color:#fff;
+   --bg-color:#1e1c2a;
+   --main-color:#ff702a;
+   --big-font:4rem;
+   --h2-font:2.25rem;
+}
